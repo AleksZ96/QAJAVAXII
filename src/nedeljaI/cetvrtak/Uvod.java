@@ -1,3 +1,4 @@
+package nedeljaI.cetvrtak;
 import java.util.Scanner; // uvezena klasa iz biblioteke util (utility)
 
 public class Uvod { //ime klase
